@@ -1,0 +1,7 @@
+configuration {
+
+    theme:"~/.config/rofi/custom.rasi";
+    modi: "window,run,ssh";
+
+
+}
